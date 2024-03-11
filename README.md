@@ -12,6 +12,8 @@ My curiosity knows no bounds, and I'm always on the lookout for opportunities to
 * 🌟 Many more...
 
 
+Excited to embark on this coding journey and eager to learn, grow, and contribute to the world of technology.
+
 <!--
 **urshashi09/urshashi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
