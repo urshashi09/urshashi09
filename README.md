@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Urshashi Majumder
-Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student at Techno India University with a specialization in Artificial Intelligence. 🎓 Currently, I'm deeply immersed in exploring the realms of AI, Machine Learning, Web Applications, and Blockchain technologies. 💻 
+Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student at Techno India University with a specialization in Artificial Intelligence. 🎓 Currently, I'm deeply immersed in exploring the realms of AI, Machine Learning, Web Applications, and Backend technologies. 💻 
 My curiosity knows no bounds, and I'm always on the lookout for opportunities to dive deeper into cutting-edge technologies. 
 
 
@@ -8,8 +8,7 @@ My curiosity knows no bounds, and I'm always on the lookout for opportunities to
 * 🌐 Web Development
 * 📱 App Development
 * 🧠 ML (Machine Learning)
-* 🔗 Blockchain
-* 🌟 Many more...
+* 🔗 Devops
 
 
 Excited to embark on this coding journey and eager to learn, grow, and contribute to the world of technology.
