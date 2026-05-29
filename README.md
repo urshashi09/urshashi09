@@ -1,29 +1,61 @@
-### Hi there 👋 I'm Urshashi Majumder
-Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student at Techno India University with a specialization in Artificial Intelligence. 🎓 Currently, I'm deeply immersed in exploring the realms of AI, Machine Learning, Web Applications, and Backend technologies. 💻 
-My curiosity knows no bounds, and I'm always on the lookout for opportunities to dive deeper into cutting-edge technologies. 
+
+# Hi there 👋 I'm Urshashi Majumder
+
+🎓 Computer Science Engineering student at Techno India University specializing in Artificial Intelligence.
+
+💻 I’m passionate about building scalable backend systems, AI-powered applications, and full-stack projects.  
+I enjoy working with modern technologies like distributed systems, APIs, databases, authentication systems, and cloud/deployment workflows.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔥 Backend Development with Node.js, Express, Redis, RabbitMQ, and PostgreSQL
+- 🤖 AI-powered applications using LLMs and Machine Learning
+- 🐳 DevOps fundamentals with Docker, AWS, and CI/CD workflows
+- 🌐 Full-stack web applications with modern authentication systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C++
+- Java
+- JavaScript
+- TypeScript
+- Python
+
+### Backend & Databases
+- Node.js
+- Express.js
+- Redis
+- RabbitMQ
+- PostgreSQL
+- MongoDB
+
+### DevOps & Tools
+- Docker
+- Git & GitHub
+- AWS EC2
+- Linux
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Backend Engineering
+- Advanced DevOps
+- Kubernetes & Cloud Deployment
+- Machine Learning Concepts
+- System Design
+
+---
+
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/urshashi-majumder-2239661b9
 
 
 
-**🌱 I’m currently learning**
-* 🌐 Web Development
-* 📱 App Development
-* 🧠 ML (Machine Learning)
-* 🔗 Devops
-
-
-Excited to embark on this coding journey and eager to learn, grow, and contribute to the world of technology.
-
-<!--
-**urshashi09/urshashi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
