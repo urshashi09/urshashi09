@@ -154,7 +154,7 @@ hold up under real load.
 
 <!-- ===== STATS ===== -->
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <div align="center">
 
@@ -171,7 +171,7 @@ hold up under real load.
 
 </div>
 
----
+--- -->
 
 
 
