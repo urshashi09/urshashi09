@@ -151,29 +151,30 @@ hold up under real load.
 
 ---
 
+
 <!-- ===== STATS ===== -->
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=urshashi09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C084FC&icon_color=C084FC&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urshashi09&layout=compact&langs_count=8&hide_border=true&title_color=C084FC&text_color=c9d1d9&bg_color=0d1117" alt="top languages"/>
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=urshashi09&hide_border=true&background=0d1117&stroke=0d1117&ring=C084FC&fire=FF6600&currStreakLabel=C084FC&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
+<img height="165" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+<img height="165" src="./assets/top-languages.svg" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=urshashi09&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="./assets/trophies.svg" alt="GitHub Trophies"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urshashi09&bg_color=0d1117&color=C084FC&line=C084FC&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
+<img src="./assets/activity-graph.svg" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
+
+
+
 
 <!-- ===== SNAKE ===== -->
 <div align="center">
